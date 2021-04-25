@@ -1,0 +1,15 @@
+omar1 level 2 392.0 201.0 54 3
+nnn tutorial 30.0 200.0 100 3
+omar2 level 2 392.0 201.0 54 3
+nnn1 tutorial 30.0 200.0 100 3
+omar3 level 1 543.0 201.0 88 3
+testSave level 1 832.0 201.0 90 3
+testSave2 level 1 644.0 201.0 86 3
+skr_skr level 1 30.0 200.0 100 3
+yeeee level 1 575.0 201.0 86 3
+BigSexy level 2 608.0 201.0 42 3
+yuh level 1 30.0 200.0 100 3
+uh tutorial 30.0 200.0 100 3
+newestsave level 2 883.0 201.0 10 3
+saum tutorial 244.0 200.0 86 3
+test10 level 2 301.0 191.0 86 3
